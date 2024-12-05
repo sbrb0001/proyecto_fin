@@ -1,0 +1,182 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+/* Header and Footer */
+header, footer {
+  background-color: #333;
+  color: #fff;
+  padding: 15px 10px;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+footer p {
+  margin: 0;
+}
+
+/* Navigation Bar */
+nav {
+  margin-top: 10px;
+  text-align: center;
+}
+
+nav a {
+  color: #201a1a;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+nav a:hover {
+  text-decoration: underline;
+  color: #007BFF;
+}
+
+/* Main Content */
+main {
+  padding: 20px;
+  min-height: 80vh;
+}
+
+h1, h2, h3 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+pre {
+  background-color: #eef;
+  padding: 10px;
+  border-radius: 5px;
+  overflow-x: auto;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+/* Forms */
+form {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+form label {
+  display: block;
+  margin-top: 15px;
+  font-weight: bold;
+}
+
+form input, form select {
+  padding: 8px;
+  width: 100%;
+  margin-top: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+form button {
+  margin-top: 20px;
+  padding: 10px 15px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+form button:hover {
+  background-color: #555;
+}
+
+/* Lists */
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background-color: #e9e9e9;
+  margin-bottom: 10px;
+  padding: 10px;
+  border-radius: 4px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+li a {
+  text-decoration: none;
+  color: #007BFF;
+  font-weight: bold;
+  transition: color 0.3s ease;
+}
+
+li a:hover {
+  text-decoration: underline;
+  color: #0056b3;
+}
+
+/* Buttons */
+button {
+  margin-top: 20px;
+  padding: 10px 15px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+button:hover {
+  background-color: #555;
+  transform: scale(1.05);
+}
+
+/* Custom Links */
+.custom-link {
+  font-weight: bold;
+  color: #000000;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+  transition: color 0.3s ease, font-size 0.2s ease;
+  text-decoration: none;
+}
+
+.custom-link:hover {
+  color: #ff0000;
+  text-decoration: underline;
+  font-size: 1.1rem;
+}
+
+.custom-link[href*="logout"] {
+  color: #ff0000;
+  text-shadow: 1px 1px 4px rgba(255, 0, 0, 0.7);
+}
+
+.custom-link[href*="logout"]:hover {
+  font-size: 1.2rem;
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  form {
+    padding: 15px;
+  }
+
+  form input, form select {
+    max-width: 100%;
+  }
+
+  nav a {
+    display: block;
+    margin: 10px 0;
+  }
+}

@@ -1,0 +1,1052 @@
+2024-12-05 01:21:18,099 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show ip int brief'} on 2 hosts
+2024-12-05 01:22:08,111 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show ip int brief'} on 2 hosts
+2024-12-05 09:19:43,369 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show ip int brief'} on 1 hosts
+2024-12-05 09:20:09,910 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 09:51:58,898 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 09:52:01,367 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 09:52:01,691 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 09:52:01,887 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 09:52:02,056 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 09:52:02,185 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 09:52:02,583 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 09:52:12,682 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 09:52:13,477 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 09:52:14,587 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 09:52:14,945 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 10:46:15,168 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 10:46:16,044 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 10:46:16,258 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 10:46:16,431 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 10:46:16,610 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 10:46:16,952 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 10:46:18,316 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 10:46:18,737 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 10:46:18,804 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 10:46:18,844 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 10:46:19,256 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 10:46:26,125 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 10:46:29,644 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 10:48:18,259 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 10:48:24,417 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 10:49:14,529 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 10:49:18,087 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 10:50:09,367 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 10:50:10,694 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 10:59:18,443 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 10:59:19,784 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 11:12:28,562 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 11:12:29,642 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 11:22:23,666 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 11:22:27,435 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 11:31:35,193 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 11:31:36,603 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 11:39:00,937 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 11:39:01,950 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 11:40:40,105 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 11:40:43,568 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 11:45:20,722 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 11:45:23,613 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 11:46:28,071 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 11:46:29,638 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 11:47:15,144 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 11:48:52,336 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 11:48:55,468 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 11:49:00,994 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 11:49:05,324 - nornir.core.task -    ERROR -      start() - Host 'R18-Nelson': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 111, in wrapper_decorator
+    return_val = func(self, *args, **kwargs)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/utilities.py", line 596, in wrapper_decorator
+    return func(self, *args, **kwargs)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 1776, in send_command
+    new_data = self.command_echo_read(cmd=cmd, read_timeout=10)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 1486, in command_echo_read
+    new_data = self.read_until_pattern(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 748, in read_until_pattern
+    raise ReadTimeout(msg)
+netmiko.exceptions.ReadTimeout: 
+
+Pattern not detected: 'show\\ vlan\\ brief' in output.
+
+Things you might try to fix this:
+1. Adjust the regex pattern to better identify the terminating string. Note, in
+many situations the pattern is automatically based on the network device's prompt.
+2. Increase the read_timeout to a larger value.
+
+You can also look at the Netmiko session_log or debug log for more information.
+
+
+
+2024-12-05 11:51:32,084 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 11:51:33,235 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 11:53:37,914 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:01:36,721 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:01:38,109 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:02:46,003 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:02:46,619 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:10:33,815 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:10:35,033 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:13:09,180 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:13:11,378 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:21:54,566 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:21:56,334 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:22:55,126 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:29:48,528 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:29:49,791 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:33:59,496 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:35:46,953 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:35:48,383 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:38:51,999 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:38:53,040 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:40:36,407 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:40:37,279 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:44:08,207 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:44:11,579 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:46:02,395 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:48:23,488 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:48:24,446 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:49:39,235 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:51:36,254 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:51:37,864 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:59:57,514 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 12:59:59,233 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 13:03:16,954 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 13:07:46,972 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 13:09:09,039 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 13:47:59,149 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 13:48:30,093 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 14:08:44,897 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 14:08:49,787 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 14:16:05,615 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['vlan 76', 'name Telefonos']} on 1 hosts
+2024-12-05 14:16:09,056 - nornir.core.task -    ERROR -      start() - Host 'S19-Scarlett': task 'netmiko_send_config' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_config.py", line 36, in netmiko_send_config
+    net_connect.enable()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/cisco_base_connection.py", line 27, in enable
+    return super().enable(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 2051, in enable
+    raise ValueError(msg)
+ValueError: Failed to enter enable mode. Please ensure you pass the 'secret' argument to ConnectHandler.
+
+2024-12-05 14:16:38,227 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 14:16:57,664 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 14:17:01,335 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 14:17:02,166 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 14:17:02,339 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 14:17:02,505 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 14:18:02,446 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 14:18:33,858 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['vlan 78', 'name Telefonos']} on 1 hosts
+2024-12-05 14:18:34,688 - nornir.core.task -    ERROR -      start() - Host 'S19-Scarlett': task 'netmiko_send_config' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_config.py", line 36, in netmiko_send_config
+    net_connect.enable()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/cisco_base_connection.py", line 27, in enable
+    return super().enable(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 2051, in enable
+    raise ValueError(msg)
+ValueError: Failed to enter enable mode. Please ensure you pass the 'secret' argument to ConnectHandler.
+
+2024-12-05 14:40:08,845 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['vlan 78', 'name Telefonos']} on 1 hosts
+2024-12-05 14:40:13,657 - nornir.core.task -    ERROR -      start() - Host 'S19-Scarlett': task 'netmiko_send_config' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_config.py", line 36, in netmiko_send_config
+    net_connect.enable()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/cisco_base_connection.py", line 27, in enable
+    return super().enable(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 2051, in enable
+    raise ValueError(msg)
+ValueError: Failed to enter enable mode. Please ensure you pass the 'secret' argument to ConnectHandler.
+
+2024-12-05 14:43:34,995 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 14:47:49,028 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['vlan 78', 'name Telefonos']} on 1 hosts
+2024-12-05 14:47:52,348 - nornir.core.task -    ERROR -      start() - Host 'S19-Scarlett': task 'netmiko_send_config' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_config.py", line 36, in netmiko_send_config
+    net_connect.enable()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/cisco_base_connection.py", line 27, in enable
+    return super().enable(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 2051, in enable
+    raise ValueError(msg)
+ValueError: Failed to enter enable mode. Please ensure you pass the 'secret' argument to ConnectHandler.
+
+2024-12-05 14:54:59,155 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['vlan 78', 'name Telefonos']} on 1 hosts
+2024-12-05 14:55:17,595 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 14:55:31,033 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 14:55:34,344 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 14:55:48,492 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 14:55:56,819 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 14:55:59,666 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 14:56:00,648 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 14:56:00,837 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 16:03:06,414 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 16:03:09,557 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 16:03:30,819 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['interface Ethernet0/1', 'switchport mode access', 'switchport access vlan 78', 'no shutdown']} on 1 hosts
+2024-12-05 16:03:31,340 - nornir.core.task -    ERROR -      start() - Host 'S19-Scarlett': task 'netmiko_send_config' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_config.py", line 36, in netmiko_send_config
+    net_connect.enable()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/cisco_base_connection.py", line 27, in enable
+    return super().enable(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 2051, in enable
+    raise ValueError(msg)
+ValueError: Failed to enter enable mode. Please ensure you pass the 'secret' argument to ConnectHandler.
+
+2024-12-05 16:04:23,425 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_config' has not been run – 0 hosts selected
+2024-12-05 16:04:43,309 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:04:44,969 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:04:45,405 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:04:45,600 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:04:45,785 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:04:45,979 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:04:46,137 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:04:46,303 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:04:46,449 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:04:46,601 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:04:46,753 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:04:48,393 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 16:04:50,873 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:04:51,286 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:04:51,465 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:04:51,643 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:04:51,819 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:02,418 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:03,185 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:03,347 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:03,496 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:03,627 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:03,790 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:03,998 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:06,138 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 16:05:06,757 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 16:05:06,956 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 16:05:07,103 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 16:05:07,291 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 16:05:07,435 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 16:05:10,789 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:10,948 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:11,084 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:11,213 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:12,447 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:12,579 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:12,699 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:12,777 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:12,924 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:13,056 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:13,206 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:13,374 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:13,554 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:13,664 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:13,807 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:13,972 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:14,156 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:14,389 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:14,599 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:14,750 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:14,953 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:15,110 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:15,272 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:16,349 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:16,422 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:05:16,950 - nornir.core.task -    ERROR -      start() - Host 'R18-Nelson': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 111, in wrapper_decorator
+    return_val = func(self, *args, **kwargs)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/utilities.py", line 596, in wrapper_decorator
+    return func(self, *args, **kwargs)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 1826, in send_command
+    raise ReadTimeout(msg)
+netmiko.exceptions.ReadTimeout: 
+Pattern not detected: '1002\\ fddi\\-default' in output.
+
+Things you might try to fix this:
+1. Explicitly set your pattern using the expect_string argument.
+2. Increase the read_timeout to a larger value.
+
+You can also look at the Netmiko session_log or debug log for more information.
+
+
+
+2024-12-05 16:05:17,083 - nornir.core.task -    ERROR -      start() - Host 'R18-Nelson': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 111, in wrapper_decorator
+    return_val = func(self, *args, **kwargs)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/utilities.py", line 596, in wrapper_decorator
+    return func(self, *args, **kwargs)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 1776, in send_command
+    new_data = self.command_echo_read(cmd=cmd, read_timeout=10)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 1486, in command_echo_read
+    new_data = self.read_until_pattern(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 748, in read_until_pattern
+    raise ReadTimeout(msg)
+netmiko.exceptions.ReadTimeout: 
+
+Pattern not detected: 'show\\ vlan\\ brief' in output.
+
+Things you might try to fix this:
+1. Adjust the regex pattern to better identify the terminating string. Note, in
+many situations the pattern is automatically based on the network device's prompt.
+2. Increase the read_timeout to a larger value.
+
+You can also look at the Netmiko session_log or debug log for more information.
+
+
+
+2024-12-05 16:05:17,511 - nornir.core.task -    ERROR -      start() - Host 'R18-Nelson': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 111, in wrapper_decorator
+    return_val = func(self, *args, **kwargs)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/utilities.py", line 596, in wrapper_decorator
+    return func(self, *args, **kwargs)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 1776, in send_command
+    new_data = self.command_echo_read(cmd=cmd, read_timeout=10)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 1486, in command_echo_read
+    new_data = self.read_until_pattern(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 748, in read_until_pattern
+    raise ReadTimeout(msg)
+netmiko.exceptions.ReadTimeout: 
+
+Pattern not detected: 'show\\ vlan\\ brief' in output.
+
+Things you might try to fix this:
+1. Adjust the regex pattern to better identify the terminating string. Note, in
+many situations the pattern is automatically based on the network device's prompt.
+2. Increase the read_timeout to a larger value.
+
+You can also look at the Netmiko session_log or debug log for more information.
+
+
+
+2024-12-05 16:06:00,163 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:00,667 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:00,848 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:01,012 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:01,175 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:01,398 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:01,549 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:01,711 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:01,864 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:02,043 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:02,261 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:02,497 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:02,738 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:02,988 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:03,230 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:03,477 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:07,731 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:09,781 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:12,307 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:13,701 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:13,879 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:14,067 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:14,233 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:14,373 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:14,583 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:14,787 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:24,604 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:26,629 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:26,811 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:27,070 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:27,304 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:27,478 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:27,662 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:27,826 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:27,976 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:28,214 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:28,447 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:28,640 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:28,803 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:28,957 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:29,154 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:29,303 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:29,463 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:29,665 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:29,837 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:30,000 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:30,175 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:30,355 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:30,562 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:39,322 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:41,532 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:41,714 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:43,252 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:43,503 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:43,661 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:43,843 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:44,034 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:44,213 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:44,442 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:44,665 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:44,878 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:45,079 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:45,261 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:45,526 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:45,655 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:48,121 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:48,353 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:48,540 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:48,712 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:06:48,940 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:07:10,843 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:07:11,542 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:07:11,603 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:07:11,927 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:07:11,989 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:07:24,342 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:07:25,220 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:07:25,251 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:07:25,598 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:07:25,650 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:07:25,940 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:07:25,997 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:07:26,352 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:07:26,728 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:07:26,764 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:07:36,622 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:07:37,462 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:07:37,539 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:07:37,805 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:07:37,858 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:08:06,013 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:08:07,059 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:08:07,401 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:08:07,437 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:08:07,872 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:08:07,912 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:08:10,439 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:08:10,814 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:09:00,245 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 16:09:24,071 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['interface Ethernet0/1', 'switchport mode access', 'switchport access vlan 78', 'no shutdown']} on 1 hosts
+2024-12-05 16:09:34,079 - nornir.core.task -    ERROR -      start() - Host 'S19-Scarlett': task 'netmiko_send_config' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_config.py", line 36, in netmiko_send_config
+    net_connect.enable()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/cisco_base_connection.py", line 27, in enable
+    return super().enable(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 2026, in enable
+    if check_state and self.check_enable_mode():
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/cisco_base_connection.py", line 16, in check_enable_mode
+    return super().check_enable_mode(check_string=check_string)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 1995, in check_enable_mode
+    output = self.read_until_prompt(read_entire_line=True)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 839, in read_until_prompt
+    return self.read_until_pattern(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 748, in read_until_pattern
+    raise ReadTimeout(msg)
+netmiko.exceptions.ReadTimeout: 
+
+Pattern not detected: 'S19\\-Scarlett.*' in output.
+
+Things you might try to fix this:
+1. Adjust the regex pattern to better identify the terminating string. Note, in
+many situations the pattern is automatically based on the network device's prompt.
+2. Increase the read_timeout to a larger value.
+
+You can also look at the Netmiko session_log or debug log for more information.
+
+
+
+2024-12-05 16:10:10,840 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_config' has not been run – 0 hosts selected
+2024-12-05 16:10:26,794 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 16:10:36,283 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:10:42,019 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:10:42,653 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:10:42,886 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:10:43,076 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:10:43,224 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:12:56,404 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 16:12:59,420 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 16:13:07,992 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 16:13:10,091 - nornir.core.task -    ERROR -      start() - Host 'S19-Scarlett': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 111, in wrapper_decorator
+    return_val = func(self, *args, **kwargs)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/utilities.py", line 596, in wrapper_decorator
+    return func(self, *args, **kwargs)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 1776, in send_command
+    new_data = self.command_echo_read(cmd=cmd, read_timeout=10)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 1486, in command_echo_read
+    new_data = self.read_until_pattern(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 748, in read_until_pattern
+    raise ReadTimeout(msg)
+netmiko.exceptions.ReadTimeout: 
+
+Pattern not detected: 'show\\ vlan\\ brief' in output.
+
+Things you might try to fix this:
+1. Adjust the regex pattern to better identify the terminating string. Note, in
+many situations the pattern is automatically based on the network device's prompt.
+2. Increase the read_timeout to a larger value.
+
+You can also look at the Netmiko session_log or debug log for more information.
+
+
+
+2024-12-05 16:13:15,220 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:13:43,868 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:13:45,390 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:13:45,425 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:14:04,450 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_config' has not been run – 0 hosts selected
+2024-12-05 16:14:26,522 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_config' has not been run – 0 hosts selected
+2024-12-05 16:15:57,930 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_config' has not been run – 0 hosts selected
+2024-12-05 16:16:44,429 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 16:16:48,709 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:16:49,768 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:16:49,988 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:16:50,177 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:16:50,386 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:16:50,596 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:16:50,807 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:16:51,030 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:16:51,231 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:16:51,433 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:16:51,585 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:17:00,764 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 16:17:18,489 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['interface Ethernet0/1', 'switchport mode access', 'switchport access vlan 7', 'no shutdown']} on 1 hosts
+2024-12-05 16:17:28,989 - nornir.core.task -    ERROR -      start() - Host 'R18-Nelson': task 'netmiko_send_config' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_config.py", line 36, in netmiko_send_config
+    net_connect.enable()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/cisco_base_connection.py", line 27, in enable
+    return super().enable(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 2044, in enable
+    output += self.read_until_prompt()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 839, in read_until_prompt
+    return self.read_until_pattern(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 748, in read_until_pattern
+    raise ReadTimeout(msg)
+netmiko.exceptions.ReadTimeout: 
+
+Pattern not detected: 'S18\\-Nelson' in output.
+
+Things you might try to fix this:
+1. Adjust the regex pattern to better identify the terminating string. Note, in
+many situations the pattern is automatically based on the network device's prompt.
+2. Increase the read_timeout to a larger value.
+
+You can also look at the Netmiko session_log or debug log for more information.
+
+
+
+2024-12-05 16:17:42,127 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:17:47,524 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 16:23:48,702 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['interface Ethernet0/1', 'switchport mode access', 'switchport access vlan 78', 'no shutdown']} on 1 hosts
+2024-12-05 16:23:51,834 - nornir.core.task -    ERROR -      start() - Host 'S19-Scarlett': task 'netmiko_send_config' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_config.py", line 36, in netmiko_send_config
+    net_connect.enable()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/cisco_base_connection.py", line 27, in enable
+    return super().enable(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 2051, in enable
+    raise ValueError(msg)
+ValueError: Failed to enter enable mode. Please ensure you pass the 'secret' argument to ConnectHandler.
+
+2024-12-05 16:26:05,310 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['interface Ethernet0/1', 'switchport mode access', 'switchport access vlan 78', 'no shutdown'], 'read_timeout': 30} on 1 hosts
+2024-12-05 16:26:07,993 - nornir.core.task -    ERROR -      start() - Host 'S19-Scarlett': task 'netmiko_send_config' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_config.py", line 36, in netmiko_send_config
+    net_connect.enable()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/cisco_base_connection.py", line 27, in enable
+    return super().enable(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 2051, in enable
+    raise ValueError(msg)
+ValueError: Failed to enter enable mode. Please ensure you pass the 'secret' argument to ConnectHandler.
+
+2024-12-05 16:32:36,612 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['interface Ethernet0/1', 'switchport mode access', 'switchport access vlan 78', 'no shutdown'], 'enable_pattern': 'S18\\-Nelson', 'read_timeout': 30, 'session_log': 'session_log.txt'} on 1 hosts
+2024-12-05 16:32:39,356 - nornir.core.task -    ERROR -      start() - Host 'S19-Scarlett': task 'netmiko_send_config' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_config.py", line 36, in netmiko_send_config
+    net_connect.enable()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/cisco_base_connection.py", line 27, in enable
+    return super().enable(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 2051, in enable
+    raise ValueError(msg)
+ValueError: Failed to enter enable mode. Please ensure you pass the 'secret' argument to ConnectHandler.
+
+2024-12-05 17:22:20,650 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['interface Ethernet0/2', 'switchport mode access', 'switchport access vlan 78', 'no shutdown'], 'read_timeout': 30, 'session_log': 'session_log.txt'} on 1 hosts
+2024-12-05 17:22:23,876 - nornir.core.task -    ERROR -      start() - Host 'S19-Scarlett': task 'netmiko_send_config' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_config.py", line 36, in netmiko_send_config
+    net_connect.enable()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/cisco_base_connection.py", line 27, in enable
+    return super().enable(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 2051, in enable
+    raise ValueError(msg)
+ValueError: Failed to enter enable mode. Please ensure you pass the 'secret' argument to ConnectHandler.
+
+2024-12-05 17:22:23,879 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:23:10,645 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['interface Ethernet0/2', 'switchport mode access', 'switchport access vlan 78', 'no shutdown'], 'read_timeout': 30, 'session_log': 'session_log.txt'} on 1 hosts
+2024-12-05 17:23:13,312 - nornir.core.task -    ERROR -      start() - Host 'S19-Scarlett': task 'netmiko_send_config' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_config.py", line 36, in netmiko_send_config
+    net_connect.enable()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/cisco_base_connection.py", line 27, in enable
+    return super().enable(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 2051, in enable
+    raise ValueError(msg)
+ValueError: Failed to enter enable mode. Please ensure you pass the 'secret' argument to ConnectHandler.
+
+2024-12-05 17:23:13,315 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:23:25,415 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:23:28,617 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 17:23:29,343 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 17:23:29,508 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 17:23:29,684 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 17:23:29,827 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 17:23:29,979 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 17:23:31,639 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 17:23:31,646 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 17:23:39,552 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:23:41,218 - nornir.core.task -    ERROR -      start() - Host 'R18-Nelson': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 111, in wrapper_decorator
+    return_val = func(self, *args, **kwargs)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/utilities.py", line 596, in wrapper_decorator
+    return func(self, *args, **kwargs)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 1826, in send_command
+    raise ReadTimeout(msg)
+netmiko.exceptions.ReadTimeout: 
+Pattern not detected: 'S18\\-Nelson>termina' in output.
+
+Things you might try to fix this:
+1. Explicitly set your pattern using the expect_string argument.
+2. Increase the read_timeout to a larger value.
+
+You can also look at the Netmiko session_log or debug log for more information.
+
+
+
+2024-12-05 17:23:41,304 - nornir.core.task -    ERROR -      start() - Host 'R18-Nelson': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 111, in wrapper_decorator
+    return_val = func(self, *args, **kwargs)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/utilities.py", line 596, in wrapper_decorator
+    return func(self, *args, **kwargs)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 1826, in send_command
+    raise ReadTimeout(msg)
+netmiko.exceptions.ReadTimeout: 
+Pattern not detected: 'S18\\-Nelson>termina' in output.
+
+Things you might try to fix this:
+1. Explicitly set your pattern using the expect_string argument.
+2. Increase the read_timeout to a larger value.
+
+You can also look at the Netmiko session_log or debug log for more information.
+
+
+
+2024-12-05 17:23:41,609 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:23:46,989 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:23:47,142 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:23:47,263 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:23:52,433 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:23:52,598 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:23:53,751 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:23:54,067 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:23:54,229 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:23:54,366 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:23:54,486 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:23:54,718 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:23:54,958 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:23:55,135 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:23:55,578 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:23:55,783 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:23:55,964 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:23:56,335 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:23:56,512 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:23:59,014 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:23:59,073 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:24:07,377 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:24:10,653 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:24:10,831 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:24:11,010 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:24:11,180 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:24:11,382 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:24:11,549 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:24:11,703 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:24:11,794 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:24:12,073 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:24:40,759 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 17:29:41,051 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['interface Ethernet0/2', 'switchport mode access', 'switchport access vlan 78', 'no shutdown'], 'read_timeout': 30, 'session_log': 'session_log.txt'} on 1 hosts
+2024-12-05 17:29:43,686 - nornir.core.task -    ERROR -      start() - Host 'S19-Scarlett': task 'netmiko_send_config' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_config.py", line 36, in netmiko_send_config
+    net_connect.enable()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/cisco_base_connection.py", line 27, in enable
+    return super().enable(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 2051, in enable
+    raise ValueError(msg)
+ValueError: Failed to enter enable mode. Please ensure you pass the 'secret' argument to ConnectHandler.
+
+2024-12-05 17:29:43,689 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:29:55,693 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:30:01,129 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:30:05,475 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:30:05,645 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:30:05,840 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:30:06,028 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:30:06,190 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:30:06,352 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:30:06,481 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:30:09,381 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 17:30:11,126 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 17:30:12,808 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 17:30:12,988 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 17:30:17,089 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:30:18,250 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:30:18,502 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:30:18,761 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:30:18,966 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:30:19,268 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:30:19,517 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:30:20,031 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:30:20,361 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:32:20,696 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['interface Ethernet0/2', 'switchport mode access', 'switchport access vlan 78', 'no shutdown'], 'enable': True, 'read_timeout': 30, 'session_log': 'session_log_S19-Scarlett.txt'} on 1 hosts
+2024-12-05 17:32:23,422 - nornir.core.task -    ERROR -      start() - Host 'S19-Scarlett': task 'netmiko_send_config' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_config.py", line 36, in netmiko_send_config
+    net_connect.enable()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/cisco_base_connection.py", line 27, in enable
+    return super().enable(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 2051, in enable
+    raise ValueError(msg)
+ValueError: Failed to enter enable mode. Please ensure you pass the 'secret' argument to ConnectHandler.
+
+2024-12-05 17:32:23,426 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:35:57,391 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['interface Ethernet0/2', 'switchport mode access', 'switchport access vlan 78', 'no shutdown'], 'enable': True, 'read_timeout': 30, 'session_log': 'session_log_S19-Scarlett.txt'} on 1 hosts
+2024-12-05 17:36:00,116 - nornir.core.task -    ERROR -      start() - Host 'S19-Scarlett': task 'netmiko_send_config' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_config.py", line 36, in netmiko_send_config
+    net_connect.enable()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/cisco_base_connection.py", line 27, in enable
+    return super().enable(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 2051, in enable
+    raise ValueError(msg)
+ValueError: Failed to enter enable mode. Please ensure you pass the 'secret' argument to ConnectHandler.
+
+2024-12-05 17:36:00,119 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:42:22,471 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['interface Ethernet0/2', 'switchport mode access', 'switchport access vlan 78', 'no shutdown'], 'enable': True, 'read_timeout': 30, 'session_log': 'session_log_S19-Scarlett.txt'} on 1 hosts
+2024-12-05 17:42:25,145 - nornir.core.task -    ERROR -      start() - Host 'S19-Scarlett': task 'netmiko_send_config' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_config.py", line 36, in netmiko_send_config
+    net_connect.enable()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/cisco_base_connection.py", line 27, in enable
+    return super().enable(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 2051, in enable
+    raise ValueError(msg)
+ValueError: Failed to enter enable mode. Please ensure you pass the 'secret' argument to ConnectHandler.
+
+2024-12-05 17:42:25,149 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:44:05,912 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['enable_passwordinterface Ethernet0/1', 'switchport mode access', 'switchport access vlan 78', 'no shutdown'], 'enable': True, 'read_timeout': 30, 'session_log': 'session_log_S19-Scarlett.txt'} on 1 hosts
+2024-12-05 17:44:08,537 - nornir.core.task -    ERROR -      start() - Host 'S19-Scarlett': task 'netmiko_send_config' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_config.py", line 36, in netmiko_send_config
+    net_connect.enable()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/cisco_base_connection.py", line 27, in enable
+    return super().enable(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 2051, in enable
+    raise ValueError(msg)
+ValueError: Failed to enter enable mode. Please ensure you pass the 'secret' argument to ConnectHandler.
+
+2024-12-05 17:44:08,540 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:44:57,628 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['pucmminterface Ethernet0/2', 'switchport mode access', 'switchport access vlan 78', 'no shutdown'], 'enable': True, 'read_timeout': 30, 'session_log': 'session_log_S19-Scarlett.txt'} on 1 hosts
+2024-12-05 17:45:00,318 - nornir.core.task -    ERROR -      start() - Host 'S19-Scarlett': task 'netmiko_send_config' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_config.py", line 36, in netmiko_send_config
+    net_connect.enable()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/cisco_base_connection.py", line 27, in enable
+    return super().enable(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 2051, in enable
+    raise ValueError(msg)
+ValueError: Failed to enter enable mode. Please ensure you pass the 'secret' argument to ConnectHandler.
+
+2024-12-05 17:45:00,321 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:45:55,225 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['interface Ethernet0/2', 'switchport mode access', 'switchport access vlan 78', 'no shutdown'], 'enable': True} on 1 hosts
+2024-12-05 17:45:57,890 - nornir.core.task -    ERROR -      start() - Host 'S19-Scarlett': task 'netmiko_send_config' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_config.py", line 36, in netmiko_send_config
+    net_connect.enable()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/cisco_base_connection.py", line 27, in enable
+    return super().enable(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 2051, in enable
+    raise ValueError(msg)
+ValueError: Failed to enter enable mode. Please ensure you pass the 'secret' argument to ConnectHandler.
+
+2024-12-05 17:45:57,893 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:46:38,453 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['interface Ethernet0/2', 'switchport mode access', 'switchport access vlan 78', 'no shutdown'], 'enable': True} on 1 hosts
+2024-12-05 17:46:42,628 - nornir.core.task -    ERROR -      start() - Host 'S19-Scarlett': task 'netmiko_send_config' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_config.py", line 36, in netmiko_send_config
+    net_connect.enable()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/cisco_base_connection.py", line 27, in enable
+    return super().enable(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 2051, in enable
+    raise ValueError(msg)
+ValueError: Failed to enter enable mode. Please ensure you pass the 'secret' argument to ConnectHandler.
+
+2024-12-05 17:46:42,631 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:47:54,208 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['interface Ethernet0/2', 'switchport mode access', 'switchport access vlan 78', 'no shutdown'], 'enable': True, 'secret': 'enable_password'} on 1 hosts
+2024-12-05 17:47:56,899 - nornir.core.task -    ERROR -      start() - Host 'S19-Scarlett': task 'netmiko_send_config' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_config.py", line 36, in netmiko_send_config
+    net_connect.enable()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/cisco_base_connection.py", line 27, in enable
+    return super().enable(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 2051, in enable
+    raise ValueError(msg)
+ValueError: Failed to enter enable mode. Please ensure you pass the 'secret' argument to ConnectHandler.
+
+2024-12-05 17:47:56,903 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:48:45,283 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['interface Ethernet0/2', 'switchport mode access', 'switchport access vlan 78', 'no shutdown'], 'enable': True, 'secret': 'pucmm'} on 1 hosts
+2024-12-05 17:48:47,902 - nornir.core.task -    ERROR -      start() - Host 'S19-Scarlett': task 'netmiko_send_config' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_config.py", line 36, in netmiko_send_config
+    net_connect.enable()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/cisco_base_connection.py", line 27, in enable
+    return super().enable(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 2051, in enable
+    raise ValueError(msg)
+ValueError: Failed to enter enable mode. Please ensure you pass the 'secret' argument to ConnectHandler.
+
+2024-12-05 17:48:47,905 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:51:21,148 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['interface Ethernet0/2', 'switchport mode access', 'switchport access vlan 78', 'no shutdown'], 'enable': True, 'secret': 'pucmm'} on 1 hosts
+2024-12-05 17:51:24,406 - nornir.core.task -    ERROR -      start() - Host 'S19-Scarlett': task 'netmiko_send_config' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_config.py", line 36, in netmiko_send_config
+    net_connect.enable()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/cisco_base_connection.py", line 27, in enable
+    return super().enable(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 2051, in enable
+    raise ValueError(msg)
+ValueError: Failed to enter enable mode. Please ensure you pass the 'secret' argument to ConnectHandler.
+
+2024-12-05 17:51:24,409 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 17:53:55,609 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['interface Ethernet0/2', 'switchport mode access', 'switchport access vlan 78', 'no shutdown'], 'enable': True, 'secret': 'pucmm'} on 1 hosts
+2024-12-05 17:53:58,360 - nornir.core.task -    ERROR -      start() - Host 'S19-Scarlett': task 'netmiko_send_config' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_config.py", line 36, in netmiko_send_config
+    net_connect.enable()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/cisco_base_connection.py", line 27, in enable
+    return super().enable(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 2051, in enable
+    raise ValueError(msg)
+ValueError: Failed to enter enable mode. Please ensure you pass the 'secret' argument to ConnectHandler.
+
+2024-12-05 17:53:58,362 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 18:00:04,142 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['interface Ethernet0/2', 'switchport mode access', 'switchport access vlan 72', 'no shutdown'], 'enable': True} on 1 hosts
+2024-12-05 18:00:07,555 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'write memory'} on 1 hosts
+2024-12-05 18:05:11,358 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['interface Ethernet0/2', 'switchport mode access', 'switchport access vlan 78', 'no shutdown'], 'enable': True} on 1 hosts
+2024-12-05 18:05:14,934 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'write memory'} on 1 hosts
+2024-12-05 18:47:59,343 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 18:48:11,989 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 18:50:49,960 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 18:51:11,738 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['vlan 82', 'name Camaras']} on 1 hosts
+2024-12-05 18:51:11,912 - nornir.core.task -    ERROR -      start() - Host 'S19-Scarlett': task 'netmiko_send_config' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_config.py", line 36, in netmiko_send_config
+    net_connect.enable()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/cisco_base_connection.py", line 27, in enable
+    return super().enable(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 2051, in enable
+    raise ValueError(msg)
+ValueError: Failed to enter enable mode. Please ensure you pass the 'secret' argument to ConnectHandler.
+
+2024-12-05 18:52:43,855 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['vlan 82', 'name Camaras']} on 1 hosts
+2024-12-05 18:52:45,668 - nornir.core.task -    ERROR -      start() - Host 'S19-Scarlett': task 'netmiko_send_config' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_config.py", line 36, in netmiko_send_config
+    net_connect.enable()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/cisco_base_connection.py", line 27, in enable
+    return super().enable(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 2051, in enable
+    raise ValueError(msg)
+ValueError: Failed to enter enable mode. Please ensure you pass the 'secret' argument to ConnectHandler.
+
+2024-12-05 18:53:41,547 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['vlan 87', 'name Camaras']} on 1 hosts
+2024-12-05 18:54:21,607 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_config' has not been run – 0 hosts selected
+2024-12-05 18:54:40,237 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_config' has not been run – 0 hosts selected
+2024-12-05 18:54:40,243 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 18:58:10,755 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['interface Ethernet0/3', 'switchport mode access', 'switchport access vlan 87', 'no shutdown'], 'enable': True} on 1 hosts
+2024-12-05 18:58:11,023 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'write memory'} on 1 hosts
+2024-12-05 19:02:32,660 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 19:03:45,256 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['vlan 320', 'name Punta']} on 1 hosts
+2024-12-05 19:03:55,348 - nornir.core.task -    ERROR -      start() - Host 'R18-Nelson': task 'netmiko_send_config' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_config.py", line 36, in netmiko_send_config
+    net_connect.enable()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/cisco_base_connection.py", line 27, in enable
+    return super().enable(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 2044, in enable
+    output += self.read_until_prompt()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 839, in read_until_prompt
+    return self.read_until_pattern(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 748, in read_until_pattern
+    raise ReadTimeout(msg)
+netmiko.exceptions.ReadTimeout: 
+
+Pattern not detected: 'S18\\-Nelson' in output.
+
+Things you might try to fix this:
+1. Adjust the regex pattern to better identify the terminating string. Note, in
+many situations the pattern is automatically based on the network device's prompt.
+2. Increase the read_timeout to a larger value.
+
+You can also look at the Netmiko session_log or debug log for more information.
+
+
+
+2024-12-05 19:04:23,684 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_config' has not been run – 0 hosts selected
+2024-12-05 19:04:37,985 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 19:04:55,755 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 19:04:58,597 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 19:04:58,832 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 19:04:58,877 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 19:05:05,425 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 19:05:10,447 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 19:05:13,164 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 19:05:13,186 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'show vlan brief'} on 1 hosts
+2024-12-05 19:05:18,808 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected
+2024-12-05 19:05:23,256 - nornir.core.task -    ERROR -      start() - Host 'S19-Scarlett': task 'netmiko_send_command' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_command.py", line 32, in netmiko_send_command
+    result = net_connect.send_command(command_string, **kwargs)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 111, in wrapper_decorator
+    return_val = func(self, *args, **kwargs)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/utilities.py", line 596, in wrapper_decorator
+    return func(self, *args, **kwargs)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 1776, in send_command
+    new_data = self.command_echo_read(cmd=cmd, read_timeout=10)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 1486, in command_echo_read
+    new_data = self.read_until_pattern(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 748, in read_until_pattern
+    raise ReadTimeout(msg)
+netmiko.exceptions.ReadTimeout: 
+
+Pattern not detected: 'show\\ vlan\\ brief' in output.
+
+Things you might try to fix this:
+1. Adjust the regex pattern to better identify the terminating string. Note, in
+many situations the pattern is automatically based on the network device's prompt.
+2. Increase the read_timeout to a larger value.
+
+You can also look at the Netmiko session_log or debug log for more information.
+
+
+
+2024-12-05 19:06:16,328 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_config' has not been run – 0 hosts selected
+2024-12-05 19:08:38,886 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['interface Ethernet0/1', 'switchport mode access', 'switchport access vlan 89', 'no shutdown'], 'enable': True} on 1 hosts
+2024-12-05 19:08:40,876 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_command' with args {'command_string': 'write memory'} on 1 hosts
+2024-12-05 19:09:55,912 -  nornir.core -     INFO -        run() - Running task 'netmiko_send_config' with args {'config_commands': ['interface Ethernet0/1', 'switchport mode access', 'switchport access vlan 87', 'no shutdown'], 'enable': True} on 1 hosts
+2024-12-05 19:10:05,934 - nornir.core.task -    ERROR -      start() - Host 'R18-Nelson': task 'netmiko_send_config' failed with traceback:
+Traceback (most recent call last):
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir/core/task.py", line 99, in start
+    r = self.task(self, **self.params)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/nornir_netmiko/tasks/netmiko_send_config.py", line 38, in netmiko_send_config
+    result = net_connect.send_config_set(config_commands=config_commands, **kwargs)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 111, in wrapper_decorator
+    return_val = func(self, *args, **kwargs)
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 2289, in send_config_set
+    output += self.config_mode()
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/cisco_base_connection.py", line 53, in config_mode
+    return super().config_mode(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 2118, in config_mode
+    output += self.read_until_pattern(
+  File "/home/scarlerodriguezb/.local/lib/python3.10/site-packages/netmiko/base_connection.py", line 748, in read_until_pattern
+    raise ReadTimeout(msg)
+netmiko.exceptions.ReadTimeout: 
+
+Pattern not detected: 'configure\\ terminal' in output.
+
+Things you might try to fix this:
+1. Adjust the regex pattern to better identify the terminating string. Note, in
+many situations the pattern is automatically based on the network device's prompt.
+2. Increase the read_timeout to a larger value.
+
+You can also look at the Netmiko session_log or debug log for more information.
+
+
+
+2024-12-05 19:10:05,937 -  nornir.core -  WARNING -        run() - Task 'netmiko_send_command' has not been run – 0 hosts selected

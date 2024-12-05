@@ -1,0 +1,44 @@
+<!-- templates/add_vlan.html -->
+{% extends "base.html" %}
+
+{% block title %}Agregar VLAN - Gestión de VLANs{% endblock %}
+
+{% block content %}
+<h2>Agregar Nueva VLAN</h2>
+<form method="post" id="addVlanForm">
+    <div class="mb-3">
+        <label for="vlan_id" class="form-label">ID de VLAN</label>
+        <input type="number" class="form-control" id="vlan_id" name="vlan_id" placeholder="Ejemplo: 65" required>
+    </div>
+    <div class="mb-3">
+        <label for="vlan_name" class="form-label">Nombre de VLAN</label>
+        <input type="text" class="form-control" id="vlan_name" name="vlan_name" placeholder="Ejemplo: Marketing" required>
+    </div>
+    <div class="mb-3">
+        <label for="switch_select" class="form-label">Seleccione un Switch</label>
+        <select id="switch_select" name="switch" class="form-select" required>
+            <option selected disabled>Elija un switch</option>
+        </select>
+    </div>
+    <button type="submit" class="btn btn-success"><i class="bi bi-plus-circle"></i> Agregar VLAN</button>
+</form>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    // Cargar los switches disponibles
+    document.addEventListener("DOMContentLoaded", function () {
+        fetch('/get_switches')
+            .then(response => response.json())
+            .then(data => {
+                const select = document.getElementById('switch_select');
+                data.forEach(switchName => {
+                    const option = document.createElement('option');
+                    option.value = switchName;
+                    option.textContent = switchName;
+                    select.appendChild(option);
+                });
+            });
+    });
+</script>
+{% endblock %}

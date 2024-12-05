@@ -1,0 +1,59 @@
+<!-- templates/add_vlan.html -->
+{% extends "base.html" %}
+
+{% block title %}Agregar VLAN - Gestión de VLANs{% endblock %}
+
+{% block content %}
+<h2>Agregar Nueva VLAN</h2>
+<form method="post" id="addVlanForm">
+    <div class="mb-3">
+        <label for="switch_select" class="form-label">Seleccione un Switch</label>
+        <select id="switch_select" name="switch" class="form-select" required>
+            <option selected disabled>Elija un switch</option>
+        </select>
+    </div>
+    <div class="mb-3">
+        <label for="vlan_id" class="form-label">ID de VLAN</label>
+        <input type="number" class="form-control" id="vlan_id" name="vlan_id" placeholder="Ejemplo: 65" required>
+    </div>
+    <div class="mb-3">
+        <label for="port" class="form-label">Selecciona el Puerto</label>
+        <select class="form-select" id="port" name="port" required>
+            <option value="" disabled selected>--Selecciona el Puerto--</option>
+            <option value="Ethernet0/0">Ethernet0/0</option>
+            <option value="Ethernet0/1">Ethernet0/1</option>
+            <option value="Ethernet0/2">Ethernet0/2</option>
+            <option value="Ethernet0/3">Ethernet0/3</option>
+        </select>
+        <div class="invalid-feedback">
+            Por favor, selecciona un puerto.
+        </div>
+    </div>
+    <button type="submit" class="btn btn-success"><i class="bi bi-plus-circle"></i> Agregar VLAN</button>
+</form>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    // Cargar los switches disponibles
+    document.addEventListener("DOMContentLoaded", function () {
+        const switchSelect = document.getElementById('switch_select');
+        const portSelect = document.getElementById('port_select');
+
+        // Cargar switches en el selector
+        fetch('/get_switches')
+            .then(response => response.json())
+            .then(data => {
+                data.forEach(switchName => {
+                    const option = document.createElement('option');
+                    option.value = switchName;
+                    option.textContent = switchName;
+                    switchSelect.appendChild(option);
+                });
+            });
+
+        
+
+    });
+</script>
+{% endblock %}

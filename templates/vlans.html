@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+
+{% block title %}Gestión de VLANs{% endblock %}
+
+{% block content %}
+<h2 class="text-center">Seleccione un Switch</h2>
+<div class="text-center mt-4">
+    <select id="switchSelect" class="form-select w-50 mx-auto">
+        <option selected disabled>Elija un switch</option>
+    </select>
+    <button class="btn btn-primary mt-3" onclick="redirect()">Ver VLANs</button>
+</div>
+
+<!-- Aquí debe ir el contenedor para mostrar la tabla de VLANs -->
+<div id="vlanTable"></div>
+{% endblock %}
+
+{% block scripts %}
+<script>
+    // Cargar las opciones de switches al cargar la página
+    document.addEventListener("DOMContentLoaded", function () {
+        fetch('/get_switches')
+            .then(response => response.json())
+            .then(data => {
+                const select = document.getElementById('switchSelect');
+                data.forEach(switchName => {
+                    const option = document.createElement('option');
+                    option.value = switchName;
+                    option.textContent = switchName;
+                    select.appendChild(option);
+                });
+            });
+    });
+
+    function redirect() {
+        const switchName = document.getElementById('switchSelect').value;
+        if (!switchName) {
+            alert('Por favor, elija un switch');
+            return;
+        }
+
+        // Hacer una solicitud POST para enviar el nombre del switch al backend
+        fetch('/get_vlan', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ switch: switchName })
+        })
+        .then(response => response.json())
+        .then(data => {
+            if (data.error) {
+                alert('Error: ' + data.error);
+            } else {
+                // Si la solicitud es exitosa, redirige a la página de VLANs
+                document.getElementById('vlanTable').innerHTML = data.vlan_html;
+            }
+        })
+        .catch(error => {
+            console.error('Error:', error);
+            alert('Hubo un problema con la solicitud.');
+        });
+    }
+</script>
+{% endblock %}
